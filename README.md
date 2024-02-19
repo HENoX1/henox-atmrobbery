@@ -1,4 +1,4 @@
-It is compatible with the new QB infrastructure.
+It is compatible with the new QB infrastructure and QB-Dispatch. 
 
 -- Installition --
 
